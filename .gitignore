@@ -1,0 +1,5 @@
+/.DS_Store
+/.vagrant
+/Berksfile.lock
+/logs
+/public
